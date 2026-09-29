@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, cite the original FruitNeRF paper and contact the repository author for permission to use the original additions."
+title: "FruitNeRF Reimplementation and Modified Counting Pipeline"
+type: software
+version: 0.1.0
+year: 2026
+references:
+  - type: conference-paper
+    title: "FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework"
+    authors:
+      - family-names: Meyer
+        given-names: Lukas
+      - family-names: Gilson
+        given-names: Andreas
+      - family-names: Schmid
+        given-names: Ute
+      - family-names: Stamminger
+        given-names: Marc
+    year: 2024

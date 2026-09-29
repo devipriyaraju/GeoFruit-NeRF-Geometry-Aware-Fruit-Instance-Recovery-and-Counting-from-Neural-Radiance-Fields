@@ -1,0 +1,10 @@
+{
+  "tree": "tree_01",
+  "gt": 179,
+  "paper_count": 147,
+  "ours_main_count": 168,
+  "ours_main_error": -11,
+  "ours_main_count_over_gt_pct": 93.9,
+  "paper_count_over_gt_pct": 82.1,
+  "experimental_v2_count": 148
+}

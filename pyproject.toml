@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fruitnerf-repro"
+version = "0.1.0"
+description = "Research reimplementation and modified counting pipeline for FruitNeRF"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.24",
+  "torch>=2.1",
+  "Pillow>=10",
+  "tqdm>=4.66",
+  "matplotlib>=3.8",
+  "scikit-learn>=1.3",
+  "scipy>=1.11",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

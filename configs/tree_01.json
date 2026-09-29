@@ -1,0 +1,7 @@
+{
+  "tree": "tree_01",
+  "gt": 179,
+  "semantic_dir": "semantics_sam",
+  "preset": "fruit_nerf",
+  "downscale": 4
+}

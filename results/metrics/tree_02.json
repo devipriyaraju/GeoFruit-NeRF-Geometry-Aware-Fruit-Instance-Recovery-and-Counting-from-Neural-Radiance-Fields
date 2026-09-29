@@ -1,0 +1,11 @@
+{
+  "tree": "tree_02",
+  "gt": 113,
+  "paper_count": 86,
+  "ours_main_count": 98,
+  "ours_main_error": -15,
+  "ours_main_count_over_gt_pct": 86.7,
+  "paper_count_over_gt_pct": 76.1,
+  "experimental_v2_count": 104,
+  "note": "A later notebook rerun printed raw=100 from stored cloud. Use the saved run artifacts to resolve this discrepancy."
+}

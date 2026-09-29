@@ -1,0 +1,9 @@
+numpy>=1.24
+torch>=2.1
+Pillow>=10
+tqdm>=4.66
+matplotlib>=3.8
+scikit-learn>=1.3
+scipy>=1.11
+# Optional GPU acceleration
+# tinycudann must be installed separately for your CUDA environment

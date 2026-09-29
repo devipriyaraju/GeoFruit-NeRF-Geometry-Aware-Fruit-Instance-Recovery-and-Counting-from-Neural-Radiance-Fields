@@ -1,0 +1,15 @@
+{
+  "density_thr": 150.0,
+  "semantic_thr": 0.9,
+  "export_res": 512,
+  "outlier_radius_mult": 3.0,
+  "outlier_min_nb": 10,
+  "dbscan_eps_mult": 2.0,
+  "dbscan_min_samples": 10,
+  "fruit_diameter": null,
+  "min_size_factor": 0.3,
+  "multi_factor": 1.6,
+  "max_fruits_per_cluster": 6,
+  "fruit_template": null,
+  "multi_mode": "hausdorff"
+}

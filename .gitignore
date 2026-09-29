@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Data and large artifacts
+data/external/*
+!data/external/.gitkeep
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+outputs/*
+!outputs/.gitkeep
+*.ckpt
+*.pth
+*.pt
+*.npz
+*.ply
+
+# OS and editor
+.DS_Store
+.vscode/
+.idea/
